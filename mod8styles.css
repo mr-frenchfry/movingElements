@@ -1,0 +1,40 @@
+
+.parent{
+    background: rgb(244, 0, 0);
+    position: relative;
+    height: 200vh;
+    padding: 10px;
+    font-size: xx-large;
+
+}
+.child-one{
+    background: rgb(255, 244, 79);
+    position:sticky;
+    top: 0;
+    padding: 30px;
+    
+
+}
+.child-two{
+    background: rgb(0, 139, 71);
+    position:sticky;
+    top: 0;
+    padding: 30px;
+
+}
+.child-three{
+    background: purple;
+    position:sticky;
+    top: 0;
+    padding: 30px;
+
+}
+h1{
+    text-shadow: 2px 2px  rgb(244, 0, 0);
+    text-align: center;
+
+}
+body{
+    background-image:linear-gradient(white,black);
+    
+}
